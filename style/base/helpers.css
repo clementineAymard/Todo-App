@@ -1,0 +1,24 @@
+.flex {
+    display: flex;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.grow {
+    flex-grow: 1;
+}
+
+.cap {
+    text-transform: capitalize;
+}
